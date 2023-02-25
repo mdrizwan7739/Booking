@@ -1,0 +1,102 @@
+.box0{
+    width: 100vw; 
+    height: 18rem;
+    background-color: #003580;
+}
+.para {
+    display: flex;
+    flex-direction: column;
+}
+
+.parah1 {
+    color: white;
+    font-weight: bolder !important;
+    width: 54rem;
+    font-size: 4rem !important;
+    margin-top: 60px !important;
+}
+
+.para_p {
+    color: white;
+    font-size: 1.5rem !important;
+    width: 50rem;
+}
+.inputfield {
+    margin-top: -25px;
+    height: 4rem;
+    padding-top: 5px;
+    width: 40rem;
+    margin-left: 9.5rem;
+    display: flex;
+  
+}
+
+.inputfield1 {
+    border-left: 4px solid #ffc107;
+    border-top: 4px solid #ffc107;
+    border-bottom: 4px solid #ffc107;
+    border-right: 2px solid #ffc107;
+ 
+
+}
+
+.inputfield2 {
+    border-left: 2px solid #ffc107;
+    border-top: 4px solid #ffc107;
+    border-bottom: 4px solid #ffc107;
+    border-right: 2px solid #ffc107;
+
+}
+
+.inputfield3 {
+    border-left: 2px solid #ffc107;
+    border-top: 4px solid #ffc107;
+    border-bottom: 4px solid #ffc107;
+    border-right: 2px solid #ffc107;
+
+}
+
+.inputfield4 {
+    border-left: 2px solid #ffc107;
+    border-top: 4px solid #ffc107;
+    border-bottom: 4px solid #ffc107;
+    border-right: 4px solid #ffc107;
+
+}
+
+.input1 {
+    border: none;
+    width: 20rem;
+    height: 3.1rem;
+}
+.input2{
+    border: none;
+    width: 15rem;
+    height: 2.5rem;
+    border-radius: 0px 0px 0px 0px !important;
+}
+.input3{
+    border: none;
+    width: 18rem;
+    height: 3.1rem;
+}
+.inputfieldlogin{
+    height:3.2rem !important;
+    border-radius: 0px 0px 0px 0px !important;
+}
+.select1{
+    width: 30rem;
+    margin-top: 20px;
+
+}
+.label1{
+    color:white;
+    margin-right: 0.5rem;
+}
+
+.available{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: left;
+    margin-left: 10rem;
+}

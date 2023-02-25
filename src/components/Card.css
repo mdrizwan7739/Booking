@@ -1,0 +1,33 @@
+.box1{
+    border: 1px solid black;
+    display: flex;
+    width: 40rem;
+    margin-left: 10rem;
+    height: 23rem;
+    margin-top: 1rem;
+    padding-top: 1.2rem;
+    position:relative;
+    
+}
+.first{
+    margin-left: 1.5rem;
+    text-align: left;
+    width: 5rem;
+}
+.second{
+    margin-left: 1.5rem;
+    text-align: left;
+    width: 6rem;
+}
+.third{
+    margin-left: 1.5rem;
+    text-align: left;
+}
+.fourth{
+    margin-top: 10rem;
+    margin-left: 3.5rem;
+}
+.btn112{
+    width: 5rem;
+    height: 3rem;
+}

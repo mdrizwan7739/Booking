@@ -1,0 +1,66 @@
+.head1 {
+    width: 100vw;
+    height: 220px;
+    background-color: #f5f5f5;
+
+}
+
+.head1h {
+    width: 949px;
+    padding-top: 35px;
+}
+
+.head1p {
+    width: 625px;
+    font-size: x-large;
+
+}
+
+.row {
+    margin-left: 147px !important;
+    margin-top: 75px !important;
+
+}
+
+.input11 {
+    width: 300px !important;
+    border-left: 4px solid #ffc107;
+    border-top: 4px solid #ffc107;
+    border-bottom: 4px solid #ffc107;
+    border-right: 2px solid #ffc107;
+}
+
+.input12 {
+    width: 250px !important;
+    height: 50px;
+    border-left: 2px solid #ffc107;
+    border-top: 4px solid #ffc107;
+    border-bottom: 4px solid #ffc107;
+    border-right: 2px solid #ffc107;
+}
+
+.input13 {
+    width: 300px !important;
+    border-left: 2px solid #ffc107 !important;
+    border-top: 4px solid #ffc107 !important;
+    border-bottom: 4px solid #ffc107 !important;
+    border-right: 2px solid #ffc107 !important;
+    border-radius: 0px 0px 0px 0px !important;
+}
+.searchbtn{
+    width:90px !important ;
+    height: 50px !important;
+    border-radius: 0px 0px 0px 0px !important;
+    border-left: 2px solid #ffc107 !important;
+    border-top: 4px solid #ffc107 !important;
+    border-bottom: 4px solid #ffc107 !important;
+    border-right: 4px solid #ffc107 !important;
+}
+.btn2{
+    background-color: #0b5ed7;
+}
+.tickets{
+    width: 600px;
+    margin-top: 50px;
+    padding-top:20px;
+}

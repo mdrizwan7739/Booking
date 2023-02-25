@@ -1,0 +1,30 @@
+.boxcontainer{
+    display:flex;
+    border: 1px solid black;
+    margin-top: 60px;
+    width: 880px !important;
+    margin-left: 150px;
+    height: 270px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.part1{
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+.part2{
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.part3{
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.part4{
+    text-align: left;
+    margin-top: 200px;
+    margin-left: 50px;
+}
