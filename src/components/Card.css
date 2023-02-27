@@ -1,7 +1,7 @@
 .box1{
     border: 1px solid black;
     display: flex;
-    width: 40rem;
+    width: 50rem;
     margin-left: 10rem;
     height: 23rem;
     margin-top: 1rem;
@@ -12,20 +12,21 @@
 .first{
     margin-left: 1.5rem;
     text-align: left;
-    width: 5rem;
+    width: 12rem;
 }
 .second{
     margin-left: 1.5rem;
     text-align: left;
-    width: 6rem;
+    width: 12rem;
 }
 .third{
     margin-left: 1.5rem;
     text-align: left;
 }
 .fourth{
-    margin-top: 10rem;
-    margin-left: 3.5rem;
+    margin-top: 16rem;
+    margin-left: 5.5rem;
+
 }
 .btn112{
     width: 5rem;
